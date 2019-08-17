@@ -1,0 +1,177 @@
+h1{
+	position: absolute;
+	top: 0px;
+	left: 200px;
+	color: white;
+	font-size: 40px;
+	font-family: Lucida Sans;
+}
+.facebooktop{
+	height: 85px;
+	width: 1356px;
+	background-color: #00008B;
+}
+.text{
+	position: absolute;
+	top: 35px;
+	left: 800px;
+}
+.pass{
+	position: absolute;
+	top: 35px;
+	left: 990px;
+}
+p{
+	color: white;
+}
+.em{
+	position: absolute;
+	top: 3px;
+	left: 800px;
+}
+.pa{
+	position: absolute;
+	top: 3px;
+	left: 990px;
+}
+button{
+	background-color: #9370DB;
+	position: absolute;
+	top: 37px;
+	left: 1170px;
+	color: white;
+	outline: none;
+	box-shadow: none;
+	border:none;
+}
+img{
+	position: absolute;
+	top: 190px;
+	left: 150px;
+}
+.does{
+	position: absolute;
+	top: 105px;
+	left: 150px;
+	color: blue;
+	font-family: Franklin Gothic Medium;
+	font-size: 24px; 
+}
+.bottomhalf{
+	height: 505px;
+	width: 1358px;
+	background-color: #87CEEB;
+}
+.rite{
+	position: absolute;
+	top: 58px;
+	left: 990px;
+	text-decoration: none;
+	color: #c9bdbd;
+}
+.font{
+	position: absolute;
+	top: 90px;
+	left: 55%;
+	color: black;
+	font-size: 34px;
+}
+.free{
+	position: absolute;
+	top: 150px;
+	left: 55%;
+	color: black;
+	font-size: 20px;
+	font-family: arial;
+}
+.inputs{
+	position: absolute;
+	top: 200px;
+	left: 55%;
+}
+.fist{
+	height: 25px;
+	width: 170px;
+	border-radius: 5px;
+}
+.name{
+	height: 25px;
+	width: 170px;
+	border-radius: 5px;
+}
+.emailly{
+	height: 25px;
+	width: 350px;
+	border-radius: 5px;
+}
+.passme{
+	height: 25px;
+	width: 350px;
+	border-radius: 5px;
+}
+select{
+	background-color: white;
+	position: absolute;
+	top: 54%;
+	left: 55%;
+}
+.birthh{
+	color: #0000FF;
+	position: absolute;
+	top: 45%;
+	left: 55%;
+	font-size: 21px;
+}
+.months{
+	position: absolute;
+	top: 54%;
+	left: 59%;
+}
+.years{
+	position: absolute;
+	top: 54%;
+	left: 67%;
+}
+.gender{
+	color: #0000FF;
+	position: absolute;
+	top: 58%;
+	left: 55%;
+	font-size: 21px;
+}
+.checkbox{
+	position: absolute;
+	top: 67%;
+	left: 55%;
+}
+.login{
+	position: absolute;
+	top: 90%;
+	left: 58%;
+	width: 200px;
+	height: 35px;
+	border-radius: 5px;
+	background-color: green;
+	font-size: 21px;
+	color: white;
+}
+.questiona{
+	position: absolute;
+	top: 53%;
+	left: 72%;
+}
+.questionb{
+	position: absolute;
+	top: -10%;
+	left: 105%;
+	height: 18px;
+}
+.end{
+	color: #778899;
+	position: absolute;
+	top: 75%;
+	left: 50%;
+}
+.link{
+	text-decoration: none;
+}
